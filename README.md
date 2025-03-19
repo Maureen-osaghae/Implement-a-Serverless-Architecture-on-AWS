@@ -330,7 +330,7 @@ Scroll down to the Code source section, and in the Environment pane, choose 
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/1dd274c6-e9e6-4853-97f3-0b9555e4df60" />
 
-<h2>Examine the code. It performs the following steps:<h2>
+<h2>Examine the code. It performs the following steps:</h2>
   
 ◦ Loop through the incoming records
 
